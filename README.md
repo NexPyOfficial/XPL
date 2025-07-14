@@ -26,3 +26,4 @@ Quando attivato, mostra un messaggio personalizzato per tutti i giocatori, prote
 
 1. Non serve nessun'altro plugin (di librerie)
 2. Integra anche il permesso LuckPerms 
+3. Ci sono 3 versioni disponibili: 1.20.4, 1.20.1 e 1.19.4
